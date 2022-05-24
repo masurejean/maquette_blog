@@ -1,0 +1,70 @@
+* {
+    font-family: 'Raleway', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+
+
+#liste>.row{
+    border-bottom: 1px rgb(207, 206, 206) solid;
+    margin-bottom: 5px;
+    padding-bottom: 5px;
+
+}
+
+#txtListe{
+    background-color: rgb(207, 206, 206);
+    color: black;
+}
+#liste p{
+    vertical-align: middle;
+}
+
+#tag>span{
+    background-color: rgb(207, 206, 206);
+    
+}
+#titreTag{
+    background-color: rgb(207, 206, 206);
+}
+
+.piedcard{
+    display: flex;
+    justify-content:space-between;
+}
+
+
+.piedcard span{
+    background-color: black;
+    color: white;
+    padding: 0.3rem 0.5rem;
+    border-radius: 50%;
+}
+footer{
+    background-color: gray;
+    padding: 1rem;
+}
+
+.footer ,footer{
+    background-color: gray;
+    color: white;
+    
+
+}
+
+.footer button{
+    margin: 1rem  0;
+    width: 15rem;
+    padding: 1rem;
+}
+
+
+footer p{
+    margin: 1rem;
+}
+footer a{
+    text-decoration: none;
+    color: white;
+}
+
